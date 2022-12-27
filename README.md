@@ -1,6 +1,7 @@
 ## Hi, I’m Ancha!!
 - 👀 I’m interested in share my habilities and learn more :)
 - 🌱 I’m currently learning Javascript!
+- My focus journay stands for being a web developer. That's why you will find a lot of CSS here. ;))
 - Pronouns: SHE/HER
 - 
 <div>
